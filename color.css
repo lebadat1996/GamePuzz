@@ -1,0 +1,11 @@
+.container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.container img {
+    width: 800px;
+    height: 160px;
+    box-shadow: 4px 4px 9px black;
+}
+
